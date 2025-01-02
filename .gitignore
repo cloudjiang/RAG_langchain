@@ -16,7 +16,6 @@ env/
 .env/
 
 # IDEs and editors
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -31,7 +30,6 @@ logs/*.log
 !logs/.gitkeep
 
 # API keys and secrets
-.env
 
 # Jupyter Notebook
 .ipynb_checkpoints
@@ -42,3 +40,5 @@ logs/*.log
 # Log files
 *.log
 .aider*
+config.bat
+node_modules
